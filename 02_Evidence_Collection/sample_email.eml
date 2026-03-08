@@ -1,0 +1,39 @@
+From: James Hartwell <j.hartwell@techcorp.co.uk>
+To: sarah.mitchell@techcorp.co.uk
+Subject: URGENT: Invoice Approval Required — Action Needed Today
+Date: Mon, 02 Mar 2026 08:45:00 +0000
+Message-ID: <20260302084500.fake001@techcorp-ltd.xyz>
+Reply-To: ceo@techcorp-ltd.xyz
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Received: from mail.techcorp-ltd.xyz (mail.techcorp-ltd.xyz [192.168.100.200])
+        by mx.techcorp.co.uk (Postfix) with ESMTP id A1B2C3D4E5
+        for <sarah.mitchell@techcorp.co.uk>; Mon, 02 Mar 2026 09:14:05 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+        by mail.techcorp-ltd.xyz (Postfix) with ESMTP id 12345ABCDE
+        for <sarah.mitchell@techcorp.co.uk>; Mon, 02 Mar 2026 08:45:00 +0000 (UTC)
+X-Originating-IP: 192.168.100.200
+X-Mailer: Python smtplib (educational simulation)
+X-Spam-Status: No, score=2.4
+X-Spam-Flag: NO
+
+Dear Sarah,
+
+I hope you are well. I am currently in an overseas meeting and unable to 
+access the finance portal directly.
+
+Please review and approve the attached invoice (Invoice_March2026.pdf) 
+as soon as possible — our vendor requires payment by end of day.
+
+To view the invoice, please log in using the secure link below:
+
+    http://192.168.100.200/login?ref=invoice_march2026
+
+Use your normal corporate credentials to access the document.
+
+This is time-sensitive. Please do not delay.
+
+Best regards,
+James Hartwell
+CEO, TechCorp Ltd
+Tel: +44 20 7946 0001
