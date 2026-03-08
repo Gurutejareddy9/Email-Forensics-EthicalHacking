@@ -1,0 +1,9 @@
+# Python Standard Library modules used in this project
+# (These are built-in and do not need to be installed separately)
+# email
+# re
+# hashlib
+# datetime
+
+# Optional third-party package for coloured terminal output
+colorama
