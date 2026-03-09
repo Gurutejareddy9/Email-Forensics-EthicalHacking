@@ -13,7 +13,6 @@
 | **Organisation** | TechCorp Ltd — IT Security Team |
 | **Classification** | Confidential (Simulated — Educational Only) |
 
-> **⚠️ DISCLAIMER: This report is an entirely fictional, educational simulation. All names, organisations, IP addresses, domains, and events are invented. No real systems were attacked and no real data was compromised.**
 
 ---
 
